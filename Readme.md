@@ -23,3 +23,8 @@ Threaded assemblies play a crucial role in **medical devices**, such as:
 - Develop **standardized** technical drawings and 3D representations.
 - Improve **understanding of threaded assemblies** used in medical applications.
 - Optimize **CAD modeling skills** for mechanical and biomedical engineering.
+
+## Screenshots
+![2D Technical Drawing](E2.jpeg)
+![2D CAD Model](RD%2010-00.jpeg)
+![3D CAD Model](3D.png)
